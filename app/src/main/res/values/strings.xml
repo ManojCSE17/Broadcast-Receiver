@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReciever</string>
+    <string name="message">Broadcast Toast Message Display</string>
+</resources>
